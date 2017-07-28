@@ -1,7 +1,5 @@
-# translator
-
-> translator
-
+# QR code for weex playground
+![QR Code](./qrcode.png)
 ## getting start
 
 ```bash
